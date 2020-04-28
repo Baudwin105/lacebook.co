@@ -1,0 +1,73 @@
+body {
+  text-align: center;
+
+}
+
+.header {
+  background-color: #43609C;
+  color: white;
+  text-align: center;
+  padding: 0.2rem;
+  height: 37px;
+}
+
+.log-in-info {
+  padding-top: 20px;
+  padding-left: 15px;
+}
+
+.email-phone{
+  width: 90rem;
+  height: 2.5rem;
+}
+
+
+.languages {
+  text-align: center;
+  position: relative;
+  right: 10rem;
+  bottom: 12px;
+  font-size: 13px;
+}
+
+.more-languages {
+  text-align: center;
+  position: relative;
+  left: 10rem;
+  bottom: 5rem;
+  font-size: 13px;
+}
+
+.footer {
+  text-align: center;
+  position: relative;
+  bottom: 2.5rem;
+  font-size: 12px;
+}
+
+
+.create-new {
+  text-align: center;
+}
+
+.forgot {
+  text-align: center;
+  padding: 20px 20px;
+}
+
+.get {
+  background-color: #fdffd5;
+  height: 20px;
+  padding-bottom: 35px;
+  padding-top: 10px;
+  font-size: 14px;
+  /* color: blue; */
+
+}
+
+
+.log-in {
+  padding: 4px 5px 10px 5px;
+  height: 30px;
+  margin-top: 20px;
+}
